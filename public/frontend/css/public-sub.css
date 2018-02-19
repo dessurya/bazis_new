@@ -1,0 +1,16 @@
+/* banner */
+	#banner{
+		height: 385px;
+
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+/* banner */
+
+/* Content */
+	.content{
+		padding: 10px 0;
+		line-height: 1.4;
+	}
+/* Content */
